@@ -1,0 +1,14 @@
+body{
+    background-color: brown
+    ;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    /* margin-left: 50vw; */
+    
+} input{
+    display: block;
+    margin-left: 50vw;
+}
